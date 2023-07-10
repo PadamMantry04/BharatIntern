@@ -10,7 +10,7 @@ Table of Contents
 2. House Price Predictor
 
 Wine Quality Predictor
-The wine quality predictor is a machine learning model trained to predict the quality of wines based on various chemical properties. The project involved data preprocessing, exploratory data analysis, feature engineering, and model training. The final model achieved an accuracy of XX% in predicting the wine quality. You can find the complete code and documentation for this project in the wine-quality-predictor directory.
+The wine quality predictor is a machine learning model trained to predict the quality of wines based on various chemical properties. The project involved data preprocessing, exploratory data analysis, feature engineering, and model training. 
 
 House Price Predictor
 The house price predictor is a machine learning model developed to predict the prices of houses based on their features such as area, number of rooms, location, etc. The project included data cleaning, feature selection, model training, and evaluation. 
